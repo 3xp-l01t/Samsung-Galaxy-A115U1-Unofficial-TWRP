@@ -5,6 +5,9 @@
 - [Samsung USB drivers](https://developer.samsung.com/android-usb-driver) installed.
 - Latest [Odin](https://odindownload.com/) 
 - Unlocked bootloader
--
--
+- [Vbmeta_disabler.tar](link) and [TWRP_A11.tar](link)
+- USB cable
+
+
+  ## Step 1
 
