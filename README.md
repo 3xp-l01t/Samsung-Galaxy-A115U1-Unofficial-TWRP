@@ -11,10 +11,13 @@
 
 ## Step 1
 
-Boot into download mode.
-Launch Odin and disable Auto Reboot in the options tab.
+* Boot into download mode and plug your phne into your PC.
+* Launch Odin and disable Auto Reboot in the options tab.
 
 <img width="868" height="643" alt="DownloadMode" src="https://github.com/user-attachments/assets/83d6bc1d-ad80-45d6-9039-6059616b5b39" />
 
 
-Load Vbmeta_disabler.tar into the AP slot.
+* Load Vbmeta_disabler.tar into the AP slot.
+* Click Start.
+
+  ## Step 2
