@@ -46,7 +46,7 @@
 
 ## Step 3
 
-* Reboot into **Factory recovery** by holding **Volume Up + Power**. 
+* Reboot into **TWRP recovery** by holding **Volume Up + Power**. 
 
 * Once in TWRP, go to **Advanced → Terminal**, type `multidisabler`, press Enter. go back and select **Reboot → System**.
 ![twrp_advanced](https://raw.githubusercontent.com/3xp-l01t/Samsung-Galaxy-A115U1-Unofficial-TWRP/refs/heads/main/images/images.png?token=GHSAT0AAAAAAD23OBENCHLSGMJNZMFNVDQU2PEQSIQ)
