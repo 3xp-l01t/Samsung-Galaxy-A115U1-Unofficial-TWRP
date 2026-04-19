@@ -17,22 +17,21 @@
   * [Samsung USB drivers](https://developer.samsung.com/android-usb-driver) installed.
   * Latest [Odin](https://odindownload.com/)
   * Unlocked bootloader
-  * [Vbmeta_disabler.tar](link) and [TWRP_A11.tar](link)
+  * [vbmeta_disabler.tar](https://github.com/3xp-l01t/Samsung-Galaxy-A115U1-Unofficial-TWRP/raw/refs/heads/main/other_files/vbmeta_disabled.tar) and [TWRP_A11.tar](https://github.com/3xp-l01t/Samsung-Galaxy-A115U1-Unofficial-TWRP/raw/refs/heads/main/twrp_images/twrp-3.6.0_afaneh92-a11q.tar)
   * USB cable
 
 
 ## Step 1
 
-* Boot into download mode and plug your **phone** into your PC.
-
-* **Volume down and power button**
+* Boot phone into **Download Mode** (Volume Down + Power → Volume Up)
 
 * Launch Odin and disable Auto Reboot in the Options tab.
 
 ![Download Mode](https://github.com/user-attachments/assets/83d6bc1d-ad80-45d6-9039-6059616b5b39)
 
+* Connect to PC – Odin shows `Added!` and a blue COM port
 
-* Load Vbmeta_disabler.tar into the AP slot and click **Start**.
+* Load [vbmeta_disabler.tar](https://github.com/3xp-l01t/Samsung-Galaxy-A115U1-Unofficial-TWRP/raw/refs/heads/main/other_files/vbmeta_disabled.tar) into the AP slot and click **Start**.
   
 
 ## Step 2
