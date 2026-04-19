@@ -13,7 +13,7 @@
 
 * Boot into download mode and plug your **phone** into your PC.
 
-* *Volume down and power button*
+* **Volume down and power button**
 
 * Launch Odin and disable Auto Reboot in the Options tab.
 
@@ -29,7 +29,7 @@
 
 * Boot into download mode and plug into the computer.
 
-* Go to Odin load the twrp image into the AP slot, disable auto reboot.
+* Go to Odin, load the twrp image into the AP slot, disable auto reboot.
 
 * Click Start.
 
@@ -38,3 +38,6 @@
 * Reboot into **Factory recovery** by holding **Volume Up + Power**. 
 
 * Once in TWRP, go to **Advanced → Terminal**, type `multidisabler`, press Enter. go back and select **Reboot → System**.
+
+
+![Download Mode](https://github.com/user-attachments/assets/83d6bc1d-ad80-45d6-9039-6059616b5b39)
