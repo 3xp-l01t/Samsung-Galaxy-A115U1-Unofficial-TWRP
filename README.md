@@ -13,7 +13,7 @@
 
 * Boot into download mode and plug your **phone** into your PC.
 
-*Volume down and power button*
+* *Volume down and power button*
 
 * Launch Odin and disable Auto Reboot in the Options tab.
 
@@ -23,16 +23,17 @@
 * Load Vbmeta_disabler.tar into the AP slot and click **Start**
   
 
-  ## Step 2
+## Step 2
 
-* Reboot into Factory recovery and factory reset the phone, then power it off.
+* Reboot into **Factory recovery** by holding **Volume Up + Power** after Odin finishes and factory reset the phone, then power it off.
 
 * Boot into download mode and plug into the computer.
 
-* Go-to Odin load the twrp image into the AP slot, disable auto reboot.
+* Go to Odin load the twrp image into the AP slot, disable auto reboot.
 
 * Click Start.
 
 ## Step 3
 
-* Reboot to recovery go-to [Advanced -> Terminal] type ``` multidisabler``` the reboot. 
+* In TWRP, go to **Advanced → Terminal**, type `multidisabler`, press Enter.  
+* Go back and select **Reboot → System**.
