@@ -53,3 +53,11 @@
 
 ![twrp_terminal](https://raw.githubusercontent.com/3xp-l01t/Samsung-Galaxy-A115U1-Unofficial-TWRP/refs/heads/main/images/images.jpeg?token=GHSAT0AAAAAAD23OBEMYL3GLQRLROOUPDHQ2PEQTSQ)
 
+
+## After TWRP
+- First boot to system may take 5–10 minutes.
+
+- Optional: Flash Magisk (rename .apk to .zip) for root.
+
+- Make a Nandroid backup from TWRP.
+
