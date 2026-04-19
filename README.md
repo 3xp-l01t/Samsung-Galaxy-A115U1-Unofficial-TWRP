@@ -22,4 +22,14 @@
 
   ## Step 2
 
-  * Reboot into Factory recovery and factory reset the phone, then power it off.
+* Reboot into Factory recovery and factory reset the phone, then power it off.
+
+* Boot into download mode and plug into the computer.
+
+* Go-to Odin load the twrp image into the AP slot, disable auto reboot.
+
+* Click Start.
+
+## Step 3
+
+* Reboot to recovery go-to [Advanced -> Terminal] type ``` multidisabler``` the reboot. 
