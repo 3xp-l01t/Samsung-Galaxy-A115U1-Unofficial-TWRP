@@ -1,4 +1,16 @@
 # Samsung-Galaxy-A115U1-Unofficial-TWRP
+
+> **⚠️ WARNING**  
+> - Flashing custom recovery can brick your device or void your warranty.  
+
+> - Back up all data before proceeding.  
+
+> - You assume full responsibility.  
+
+> - **Note:** This TWRP image is not my work. I just made simple, easy‑to‑understand instructions.
+
+
+
 ### Requirements
 
   * Phone with A115U1UESACWL1 [firmware](https://samfw.com/firmware/SM-A115U1/XAA/A115U1UESACWL1)
