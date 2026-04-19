@@ -7,7 +7,7 @@
 
 > - You assume full responsibility.  
 
-> - **Note:** This TWRP image is not my work. I just made simple, easy‑to‑understand instructions.
+> - **Note:** This TWRP image is not my work. I just made simple, easy‑to‑understand instructions. Orignal owner here [afaneh92](https://xdaforums.com/t/recovery-unofficial-twrp-for-galaxy-a11-snapdragon.4197085/).
 
 
 
