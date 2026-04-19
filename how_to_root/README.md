@@ -3,7 +3,7 @@
 ## Prerequisites
 - Unlocked bootloader
 - TWRP installed (follow my TWRP guide)
-- [Magisk app](https://github.com/topjohnwu/Magisk/releases) – **use version 27.0** (this works best with Kali Nethunter)
+- [Magisk app](https://github.com/3xp-l01t/Samsung-Galaxy-A115U1-Unofficial-TWRP/raw/refs/heads/main/how_to_root/app/Magisk-v27.0.apk) – **use version 27.0** (this works best with Kali Nethunter if you are installing it.)
 
 > 📌 **Note:** Other Magisk versions may work, but 27.0 is recommended for Kali Nethunter compatibility.
 
