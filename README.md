@@ -40,9 +40,9 @@
 
 * Boot into download mode and plug into the computer.
 
-* Go to Odin, load the twrp image into the AP slot, disable auto reboot.
+* Go to Odin, load the [twrp_image](https://github.com/3xp-l01t/Samsung-Galaxy-A115U1-Unofficial-TWRP/raw/refs/heads/main/twrp_images/twrp-3.6.0_afaneh92-a11q.tar) into the AP slot, disable auto reboot.
 
-* Click Start.
+* Click **Start**.
 
 ## Step 3
 
