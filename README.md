@@ -21,3 +21,5 @@
 * Click Start.
 
   ## Step 2
+
+  * Reboot into Factory recovery and factory reset the phone, then power it off.
