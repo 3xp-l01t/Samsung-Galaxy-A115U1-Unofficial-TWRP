@@ -20,7 +20,7 @@
 <img width="868" height="643" alt="DownloadMode" src="https://github.com/user-attachments/assets/83d6bc1d-ad80-45d6-9039-6059616b5b39" />
 
 
-* Load Vbmeta_disabler.tar into the AP slot and click **Start**
+* Load Vbmeta_disabler.tar into the AP slot and click **Start**.
   
 
 ## Step 2
@@ -35,5 +35,6 @@
 
 ## Step 3
 
-* In TWRP, go to **Advanced → Terminal**, type `multidisabler`, press Enter.  
-* Go back and select **Reboot → System**.
+* Reboot into **Factory recovery** by holding **Volume Up + Power**. 
+
+* Once in TWRP, go to **Advanced → Terminal**, type `multidisabler`, press Enter. go back and select **Reboot → System**.
